@@ -1,3 +1,4 @@
+/*! play-prompt v0.0.1 | (c) 2017 cat@4moe.com/license */
 ~function(w,d){
 
     var A = function(f){if(!window[f])['','webkit','moz','ms'].forEach(function(d){if(window[d+f])window[f]=window[d+f]});return window[f]}
